@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:79358c25c4e82e472b669c19e42f2f647c99ba0839b93a7cd0387d67afa9dba2
-size 96
+**AndroidView-布局.docx**：包括CoordinatorLayout(Behavior),AppBarLayout,CollapsingToolbarLayout等布局
+
