@@ -6,7 +6,7 @@
 
 **AndroidView-绘图.docx**：包括Paint，Canvas，Path等绘图组件
 
-**AndroidView-自定义View.docx**：包括各种类型的自定义View示例，自定义属性等
+**AndroidView-自定义View.docx**：包括自定义View的通用写法(4种继承方式+手势处理)，各种类型的自定义View示例，自定义属性等
 
 **Android触控交互.docx**：Android手势触控相关知识，包括Scroller+OverScroller，多指操作，GestureDetector+ScaleGestureDetector等
 
